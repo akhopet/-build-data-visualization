@@ -1,5 +1,7 @@
 # -build-data-visualization
 i used sql queries for this project.
+
+
 INSIGHT 1 https://public.tableau.com/app/profile/sandra.eghiomon/viz/flightsdelaysandcancellation_/ca ncellationmap 
  
 Summary: The cancellation map shows the latitude and longitude of flights cancelled in the states and country in all days of the week. The sum of total flight cancelled was from 0 to 668. Design: I chose a map because positions are easy to see. Also, the user won’t have to tilt her head while viewing it. A two colors were chosen, a light and deep blue. because it does not interfere with the information on the map.  Resources: N/A 
