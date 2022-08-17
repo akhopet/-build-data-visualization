@@ -9,7 +9,7 @@ Summary: The cancellation map shows the latitude and longitude of flights cancel
  
 INSIGHT 2
 
-https://public.tableau.com/app/profile/sandra.eghiomon/viz/flightsdelaysandcancellation_/ cancellationbars 
+https://public.tableau.com/app/profile/sandra.eghiomon/viz/flightsdelaysandcancellation_/cancellationbars 
 
 Summary: The cancellation bar is to show the state with the highest number of cancelled flights. And the state with the highest number of cancelled flights is texas. Design: bar chart is great way to show the highest and lower numbers of figures to help the viewer understand better. A single color of green was used to design it.   Resources: N/A 
  
