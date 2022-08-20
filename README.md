@@ -1,5 +1,5 @@
 # -build-data-visualization
-i used sql queries for this project.
+I explored Poverty rates in US Counties (2015) using Tableau..
 
 
 INSIGHT 1 
