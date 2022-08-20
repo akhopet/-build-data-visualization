@@ -29,7 +29,7 @@ Resources: N/A
  
  
  
-INSIGHT 5 https://public.tableau.com/app/profile/sandra.eghiomon/viz/flightsdelaysandcancellation_/airl inewiththemostcancelledflights 
+INSIGHT 5 https://public.tableau.com/app/profile/sandra.eghiomon/viz/flightsdelaysandcancellation_/airlinewiththemostcancelledflights 
  
  
 Summary: This visualization shows a comparison of airlines with highest number of cancelled flights. This shows that Southwest Airlines (WN) has the most numbers of cancelled flights. The total number of airline cancelled flights is 4,359.  Design:  I chose a pie chart here because it gives a broader story from a collection of findings. The user doesn’t have to rack his head to get the general idea behind the analysis. 
